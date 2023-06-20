@@ -1,0 +1,20 @@
+{
+  "name": "perf-hooks-sample",
+  "version": "1.0.0",
+  "description": "A sample demo for perf_hooks in nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "keywords": [
+    "perf_hooks",
+    "nodejs",
+    "performance"
+  ],
+  "author": "Pritey Mehta",
+  "license": "ISC",
+  "dependencies": {
+    "perf_hooks": "^0.0.1"
+  }
+}
